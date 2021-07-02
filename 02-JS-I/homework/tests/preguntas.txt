@@ -1,0 +1,6 @@
+// una variable es algo que nos permite almacenar datos que pueden ser modificados
+// un String es una cadena de caracteres
+// las funciones nos permiten realizar llamados para realizar una operacion en particular
+// un argumento es algo que nos va a permitir determinar una operacion particular
+// la declaracion IF nos permite determinar SI queremos realizar una operacion 
+// los valores booleanos nos determinan si un argumento es verdadero o falso
